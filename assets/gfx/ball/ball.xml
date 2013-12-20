@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:237ae232b9f1f89e4535d178778e9116:1/1$ -->
+<TextureAtlas imagePath="ball.png">
+    <SubTexture name="ball_1" x="2" y="2" width="10" height="10"/>
+    <SubTexture name="ball_2" x="2" y="14" width="10" height="10"/>
+    <SubTexture name="ball_3" x="2" y="26" width="10" height="10"/>
+    <SubTexture name="ball_4" x="2" y="38" width="10" height="10"/>
+    <SubTexture name="ball_5" x="2" y="50" width="10" height="10"/>
+</TextureAtlas>

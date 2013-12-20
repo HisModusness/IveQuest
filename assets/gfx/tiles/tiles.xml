@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:32491da8434412c42e5a03955ddfa7c3:1/1$ -->
+<TextureAtlas imagePath="tiles.png">
+    <SubTexture name="tile1" x="0" y="0" width="64" height="64"/>
+    <SubTexture name="tile2" x="64" y="0" width="64" height="64"/>
+    <SubTexture name="tile3" x="128" y="0" width="64" height="64"/>
+    <SubTexture name="tile4" x="192" y="0" width="64" height="64"/>
+    <SubTexture name="tile5" x="0" y="64" width="64" height="64"/>
+    <SubTexture name="tile6" x="64" y="64" width="64" height="64"/>
+    <SubTexture name="tile7" x="128" y="64" width="64" height="64"/>
+    <SubTexture name="tile8" x="192" y="64" width="64" height="64"/>
+    <SubTexture name="tile9" x="0" y="128" width="64" height="64"/>
+    <SubTexture name="tilea" x="64" y="128" width="64" height="64"/>
+</TextureAtlas>

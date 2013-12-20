@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ec3a985e66c91ea99651fc9545fb2d29:1/1$ -->
+<TextureAtlas imagePath="explosion.png">
+    <SubTexture name="Explosion_001" x="106" y="2" width="20" height="20" frameX="-15" frameY="-15" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Explosion_002" x="100" y="102" width="24" height="28" frameX="-13" frameY="-11" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Explosion_003" x="94" y="146" width="32" height="36" frameX="-9" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Explosion_004" x="52" y="146" width="40" height="38" frameX="-5" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Explosion_005" x="52" y="102" width="46" height="42" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Explosion_006" x="2" y="54" width="50" height="46" frameX="0" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Explosion_007" x="2" y="2" width="50" height="50"/>
+    <SubTexture name="Explosion_008" x="2" y="102" width="48" height="48" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Explosion_009" x="54" y="52" width="50" height="48" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Explosion_010" x="54" y="2" width="50" height="48" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+</TextureAtlas>
