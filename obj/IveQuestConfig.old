@@ -8,15 +8,15 @@
   <compiler>
     <define append="true">
       <name>CONFIG::debug</name>
-      <value>false</value>
-    </define>
-    <define append="true">
-      <name>CONFIG::release</name>
       <value>true</value>
     </define>
     <define append="true">
+      <name>CONFIG::release</name>
+      <value>false</value>
+    </define>
+    <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'11/1/2013'</value>
+      <value>'11/21/2013'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -30,19 +30,17 @@
       <name>CONFIG::desktop</name>
       <value>false</value>
     </define>
-    <optimize>true</optimize>
-    <omit-trace-statements>true</omit-trace-statements>
-    <verbose-stacktraces>false</verbose-stacktraces>
+    <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Documents and Settings\Administrator\My Documents\VW\IveQuest\src</path-element>
+      <path-element>C:\Documents and Settings\Administrator\Desktop\IveQuest\src</path-element>
       <path-element>C:\Program Files\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>C:\Documents and Settings\Administrator\My Documents\VW\IveQuest\lib\starling.swc</path-element>
+      <path-element>C:\Documents and Settings\Administrator\Desktop\IveQuest\lib\starling.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Documents and Settings\Administrator\My Documents\VW\IveQuest\src\com\ivequest\Main.as</path-element>
+    <path-element>C:\Documents and Settings\Administrator\Desktop\IveQuest\src\com\ivequest\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>

@@ -41,7 +41,7 @@ package com.ivequest
 		public function PlayLevel(points:int) 
 		{
 			goalPoints = points;
-			super("TileSet", new Camera(600, 600, 800, 600, 64));
+			super("TileSet2", new Camera(600, 600, 800, 600, 64));
 			addEventListener(Event.ADDED_TO_STAGE, init);
 		}
 		

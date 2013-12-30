@@ -35,12 +35,15 @@ package com.ivequest
 		[Embed(source = "../../../assets/sfx/chime.mp3")] private static var StartChime:Class;
 		[Embed(source = "../../../assets/sfx/bgm.mp3")] private static var BGM:Class;
 		[Embed(source = "../../../assets/sfx/bgm2.mp3")] private static var BGM2:Class;
+		[Embed(source = "../../../assets/sfx/bgm3.mp3")] private static var BGM3:Class;
 		[Embed(source = "../../../assets/sfx/beep.mp3")] private static var Beep:Class;
 		[Embed(source = "../../../assets/sfx/gameover.mp3")] private static var GameOver:Class;
 		[Embed(source = "../../../assets/sfx/win.mp3")] private static var YouWin:Class;
 		
 		[Embed(source = "../../../assets/gfx/tiles/tiles.png")] private static var TileSet:Class;
 		[Embed(source = "../../../assets/gfx/tiles/tiles.xml", mimeType = "application/octet-stream")] private static var TileSetXML:Class;
+		[Embed(source = "../../../assets/gfx/tiles/tiles2.png")] private static var TileSet2:Class;
+		[Embed(source = "../../../assets/gfx/tiles/tiles2.xml", mimeType = "application/octet-stream")] private static var TileSet2XML:Class;
 		
 		[Embed(source = "../../../assets/gfx/explosion/explosion.png")] private static var Explosion:Class;
 		[Embed(source = "../../../assets/gfx/explosion/explosion.xml", mimeType = "application/octet-stream")] private static var ExplosionXML:Class;

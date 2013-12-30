@@ -50,7 +50,7 @@ package com.ivequest
 		{
 			removeEventListener(Event.ADDED_TO_STAGE, init);
 			
-			bgm = AssetManager.getSound("BGM2");
+			bgm = AssetManager.getSound("BGM3");
 			
 			numTicks = 0;
 			

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c96126a9bb6e76d34848f5fd31741dc8:1/1$ -->
+<TextureAtlas imagePath="tiles2.png">
+    <SubTexture name="backgroundTile" x="2" y="2" width="250" height="250"/>
+</TextureAtlas>
